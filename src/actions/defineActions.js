@@ -1,0 +1,7 @@
+const DEFINE_ACTIONS = {
+    ADD_BOOK: 'ADD_BOOK',
+    TOGGLE_READ: 'TOGGLE_READ',
+    REMOVE_BOOK: 'REMOVE_BOOK' 
+}
+
+export default DEFINE_ACTIONS
